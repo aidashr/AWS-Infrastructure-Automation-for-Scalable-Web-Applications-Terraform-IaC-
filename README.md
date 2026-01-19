@@ -4,13 +4,13 @@ This project demonstrates how to design, provision, and manage a scalable and se
 
 ---
 
-## 🚀 Project Overview
+##  Project Overview
 
 The goal of this project is to eliminate manual cloud setup by defining a production-ready AWS architecture entirely in Terraform. The infrastructure supports a typical web application deployment with proper networking, security, and scalability considerations.
 
 ---
 
-## 🏗️ Architecture Components
+##  Architecture Components
 
 The Terraform configuration provisions the following AWS resources:
 
@@ -25,7 +25,7 @@ All resources are modularized to promote reuse and maintainability.
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Terraform** (Infrastructure as Code)
 - **Amazon Web Services (AWS)**
@@ -38,7 +38,7 @@ All resources are modularized to promote reuse and maintainability.
 
 ---
 
-## 📈 Key Features
+##  Key Features
 
 - Fully automated infrastructure provisioning (zero manual setup)
 - Modular and reusable Terraform code
@@ -48,7 +48,7 @@ All resources are modularized to promote reuse and maintainability.
 
 ---
 
-## ▶️ How to Deploy
+##  How to Deploy
 
 ### Prerequisites
 - AWS account
